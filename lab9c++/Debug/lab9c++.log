@@ -1,0 +1,6 @@
+﻿  lab9c++.cpp
+C:\Users\Prost\projects\kpi\lab9\lab9c++\lab9c++.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Prost\projects\kpi\lab9\lab9c++\lab9c++.cpp(41,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Prost\projects\kpi\lab9\lab9c++\lab9c++.cpp(44,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Prost\projects\kpi\lab9\lab9c++\lab9c++.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+  lab9c++.vcxproj -> C:\Users\Prost\projects\kpi\lab9\lab9c++\Debug\lab9c++.exe
