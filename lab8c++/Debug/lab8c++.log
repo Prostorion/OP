@@ -1,0 +1,3 @@
+﻿  lab8c++.cpp
+C:\Users\Prost\projects\kpi\lab8c++\lab8c++.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab8c++.vcxproj -> C:\Users\Prost\projects\kpi\lab8c++\Debug\lab8c++.exe
